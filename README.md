@@ -4,3 +4,4 @@
 
 * [KNN手写数字识别](Chapter_1.ipynb)
 * [决策树鸢尾花分类](Chapter_2.ipynb)
+* [神经网络](Chapter_3.ipynb)
